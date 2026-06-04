@@ -1,0 +1,9 @@
+Customer,Product,Category,Region,Sales,Quantity
+Aman,Laptop,Electronics,North,55000,2
+Priya,Phone,Electronics,South,30000,3
+Rahul,Tablet,Electronics,East,20000,1
+Sneha,Laptop,Electronics,West,60000,2
+Aman,Tablet,Electronics,North,25000,1
+Priya,Phone,Electronics,South,32000,2
+Rahul,Laptop,Electronics,East,58000,3
+Sneha,Tablet,Electronics,West,22000,1
