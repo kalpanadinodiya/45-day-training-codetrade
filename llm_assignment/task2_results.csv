@@ -1,0 +1,34 @@
+Prompt ID,Prompt,Gemini Response,Gemini Time,OpenRouter Response,OpenRouter Time
+1,Summarize the following text in one sentence: Artificial Intelligence is transforming industries by automating repetitive tasks and improving decision making.,Artificial Intelligence is transforming industries by automating repetitive tasks and improving decision making.,2.39,AI is driving industry transformation by automating repetitive tasks and enhancing decision-making.,2.93
+2,Summarize the following text in three bullet points: Artificial Intelligence is transforming industries by automating repetitive tasks and improving decision making.,"Here's a three-bullet point summary:
+
+*   Artificial Intelligence is transforming industries.
+*   It automates repetitive tasks.
+*   It improves decision-making.",2.36,"- AI is reshaping various industries by streamlining operations and automating routine, repetitive tasks.  
+- This automation frees human workers to focus on higher‑value activities and reduces operational errors.  
+- AI also enhances decision‑making processes by analyzing large datasets and providing actionable insights.",11.91
+3,Explain the following text in simple language: Artificial Intelligence is transforming industries by automating repetitive tasks and improving decision making.,"Imagine computers that can think and learn like people – that's Artificial Intelligence, or AI.
+
+AI is making huge changes in all kinds of businesses (we call these 'industries') because it can:
+
+*   **Do repetitive tasks automatically:** It takes over jobs that are boring and done over and over again, so people don't have to.
+*   **Help people make better decisions:** It looks at lots of information very fast to help businesses and people make smarter choices.
+
+So, in short: **AI is changing businesses by letting computers do the boring, repeated work and by helping humans make smarter choices.**",7.04,"
+Sure! Here's the explanation in simple terms:
+
+**Artificial Intelligence (AI)** is changing how industries work by:
+
+1. **Automating Repetitive Tasks**  
+   AI helps machines do jobs that are boring or done over and over again (like data entry, sorting items on a factory line, or answering simple customer questions) without needing humans to do every step. This saves time and reduces mistakes.
+
+2. **Improving Decision Making**  
+   AI can quickly analyze huge amounts of information (like sales data, weather patterns, or medical records) to help people or businesses make smarter choices. For example, it might predict what products will sell better, or help doctors spot diseases faster.
+
+In short, **AI is making work faster, easier, and more accurate** in many areas!
+",96.34
+4,Summarize the following text for a 10-year-old child: Artificial Intelligence is transforming industries by automating repetitive tasks and improving decision making.,"Imagine AI is like a super smart computer brain! It's changing how we do almost everything by letting computers do the boring, repeated jobs for us, and also helping people make much better decisions.",4.85,"Artificial Intelligence (AI) is like a super‑smart helper that lets computers do boring, repetitive work for people and also helps them make better decisions. In simple words, AI makes machines smarter so they can take over tasks like sorting data or answering questions, letting people focus on more interesting things.",1.94
+5,Provide a professional summary of the following text: Artificial Intelligence is transforming industries by automating repetitive tasks and improving decision making.,Artificial Intelligence (AI) is transforming industries by automating repetitive tasks and enhancing decision-making capabilities.,6.4,"
+**Professional Summary:**  
+Artificial Intelligence is driving transformative change across industries by automating routine processes and enhancing decision-making capabilities, enabling organizations to streamline operations and improve efficiency.
+",23.64
